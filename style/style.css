@@ -11,7 +11,7 @@ section {
     justify-content: flex-start;
     align-items: center;
     min-height: 100vh;
-    background: url(/images/bg.jpg), url(/images/mask.jpg);
+    background: url("../images/bg.jpg"), url("../images/mask.jpg");
     background-blend-mode: screen;
     background-size: cover;
     background-position: center;
@@ -43,7 +43,7 @@ header .toggle {
     position: relative;
     width: 40px;
     height: 40px;
-    background: url(/images/menu.png);
+    background: url("../images/menu.png");
     background-size: 30px;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ header .toggle {
 }
 
 header .toggle.active {
-    background: url(/images/close.png);
+    background: url("../images/close.png");
     background-size: 25px;
     background-position: center;
     background-repeat: no-repeat;
