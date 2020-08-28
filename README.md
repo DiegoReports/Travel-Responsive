@@ -40,8 +40,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina, qualquer na
     
 - Google Chrome
 - Firefox
-- Safaria
-- Edge
+- Safari
+- Microsoft Edge
 
     Acesse: <a href="https://diegoreports.github.io/Travel-Responsive.io/">https://diegoreports.github.io/Travel-Responsive.io/</a>
 </p>
