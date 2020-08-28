@@ -79,5 +79,5 @@ Antes de começar, você vai precisar ter instalado em sua máquina, qualquer na
 
 Feito com ❤️ por Diego Henrique
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-henrique-reports/)](https://www.linkedin.com/in/diego-henrique-reports/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.reports@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.reports@gmail.com)](mailto:diego.reports@gmail.com) </p>
