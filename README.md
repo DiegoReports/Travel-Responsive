@@ -8,6 +8,13 @@
  <a href="#autor">Autor</a>
 </p>
 
+<a href="https://github.com/DiegoReports/Travel-Responsive/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/DiegoReports/Travel-Responsive?style=social">
+  </a>
+<a href="https://github.com/DiegoReports/Travel-Responsive/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DiegoReports/Travel-Responsive">
+</a>
+
 ## PREVIEW
 ---
 ### DESKTOP:
@@ -36,7 +43,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina, qualquer na
 - Safaria
 - Edge
 
-
+    Acesse: <a href="https://diegoreports.github.io/Travel-Responsive.io/">https://diegoreports.github.io/Travel-Responsive.io/</a>
 </p>
 
 ---
@@ -56,15 +63,17 @@ Antes de começar, você vai precisar ter instalado em sua máquina, qualquer na
 
 ## Licença
 <p id="licenca">
-![GitHub](https://img.shields.io/github/license/DiegoReports/Travel-Responsive)
+<img src="https://img.shields.io/github/license/DiegoReports/Travel-Responsive"/>
 </p>
+
+---
 
 ### Autor
 ---
 <p id="autor">
 <a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/64282146?s=460&u=9376c14fe78e42be74b1746a73fab96420e26d76&v=4" width="100px;" alt=""/>
- <br />
+ <img style= "border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/64282146?s=460&u=9376c14fe78e42be74b1746a73fab96420e26d76&v=4" width="100px;"/>
+ <br/>
  
 
 
